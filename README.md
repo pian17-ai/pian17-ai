@@ -1,8 +1,8 @@
 ```
-           .             ​ axenide@world 
+           .             ​ pian@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : Arch Linux 
-        .lllll.          ​ Kernel : Linux arch1
+         .ccc.           ​ OS : Alvian Cahyo Pambudi 
+        .lllll.          ​ Kernel : Linux
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
      .lcc'   'ccc.       ​ Uptime : 16 years
