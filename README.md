@@ -1,14 +1,14 @@
 ```
            .             ​ axenide@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : Adriano Tisera 
-        .lllll.          ​ Kernel : NERD-DEV 3.14 
+         .ccc.           ​ OS : Arch Linux 
+        .lllll.          ​ Kernel : Linux arch1
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
-     .lcc'   'ccc.       ​ Uptime : 24 years
-    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+     .lcc'   'ccc.       ​ Uptime : 16 years
+    .ccc'     'cc:.      ​ CPU : i5 12450HX
    .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     A   X   E   N   I   D   E   火 
+  ."'             '".     A   L   V   I   A   N   火 
 ```
 
 <!--
