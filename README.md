@@ -8,7 +8,7 @@
      .lcc'   'ccc.       ​ Uptime : 16 years
     .ccc'     'cc:.      ​ CPU : i5 12450HX
    .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     A   L   V   I   A   N   火 
+  ."'             '".    I     U s e     A r c h    B t w  
 ```
 
 <!--
