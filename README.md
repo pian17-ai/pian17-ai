@@ -1,4 +1,3 @@
-```
            .             ​ pian@world
           .c.           ┌────────────────────────────────┐ 
          .ccc.           ​ OS : Arch Linux
@@ -9,7 +8,6 @@
     .ccc'     'cc:.      ​ Wife : Nagisa Kubo
    .cccc'     'c:;..    └────────────────────────────────┘ 
   ."'             '".    I     U s e     A r c h    B t w  
-```
 
 <!--
 **pian17-ai/pian17-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
