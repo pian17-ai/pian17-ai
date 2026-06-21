@@ -10,9 +10,6 @@
    .cccc'     'c:;..    └────────────────────────────────┘ 
   ."'             '".    I     U s e     A r c h    B t w  
 ``` -->
-<div align="center">
-
-# 👋 Hi, I'm Pian
 
 ![Preview](images/profile.png)
 
