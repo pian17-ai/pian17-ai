@@ -1,4 +1,4 @@
-```
+<!-- ```
            .             ​ pian@world
           .c.           ┌────────────────────────────────┐ 
          .ccc.           ​ OS : Arch Linux
@@ -9,7 +9,7 @@
     .ccc'     'cc:.      ​ Wife : Nagisa Kubo
    .cccc'     'c:;..    └────────────────────────────────┘ 
   ."'             '".    I     U s e     A r c h    B t w  
-```
+``` -->
 <div align="center">
 
 # 👋 Hi, I'm Pian
@@ -56,7 +56,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,arch,ubuntu" />
 </p>
 
 ---
@@ -65,62 +65,11 @@
 
 🥈 LKS Web Technology - 2nd Place
 
+🏅 Robotic Games DKI Jakarta - 1st Place
+
 📚 Learning advanced Laravel ecosystem
 
 🚀 Building real-world projects using React + Laravel
-
----
-
-## 📂 Featured Projects
-
-### ☕ Kopian
-
-Coffee shop website built with:
-
-- Laravel REST API
-- React TypeScript
-- Tailwind CSS
-- Authentication
-- CRUD Management
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pian17-ai&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pian17-ai&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pian17-ai&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pian17-ai&theme=tokyo-night"/>
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Master Laravel
-- [ ] Master React
-- [ ] Learn Next.js
-- [ ] Learn TypeScript deeply
-- [ ] Build fullstack portfolio projects
-- [ ] Win LKS Web Technology
 
 ---
 
