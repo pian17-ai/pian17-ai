@@ -14,11 +14,7 @@
 
 # 👋 Hi, I'm Pian
 
-### 🚀 Web Developer | Laravel Enthusiast | LKS Web Technology Competitor
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Learning+Next.js+and+TypeScript;Laravel+Backend+Developer;Future+Fullstack+Developer" />
-
-</div>
+![Preview](images/profile.png)
 
 ---
 
@@ -67,24 +63,10 @@
 
 🏅 Robotic Games DKI Jakarta - 1st Place
 
-📚 Learning advanced Laravel ecosystem
-
-🚀 Building real-world projects using React + Laravel
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/pian17-ai">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
-
 ---
 
 <div align="center">
 
-### ⚡ "Keep building, keep learning."
+### ⚡ "Success is born when opportunity meets preparation and determination."
 
 </div>
