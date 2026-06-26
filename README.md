@@ -18,7 +18,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Student of Software Engineering (RPL) in SMKN 64 JAKARTA
-- 🏆 2nd Place LKS Web Technology
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **Modern Frontend Development**
 - 🔥 Experienced with **Laravel REST API**
 - 🎯 Goal: Become a professional Web Developer
@@ -58,7 +57,7 @@
 
 🥈 LKS Web Technology - 2nd Place
 
-🏅 Robotic Games DKI Jakarta - 1st Place
+🥈 Robotic Games DKI Jakarta - 2nd Place
 
 ---
 
