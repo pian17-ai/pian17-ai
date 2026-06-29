@@ -55,9 +55,9 @@
 
 ## 🏆 Achievements
 
-🥈 LKS Web Technology - 2nd Place
+🥈 Lomba Kompetensi Siswa (Web Technology) - 2nd Place
 
-🥈 Robotic Games DKI Jakarta - 2nd Place
+🥈 Robotic Games DKI Jakarta (Avoider Obstacle) - 2nd Place
 
 ---
 
