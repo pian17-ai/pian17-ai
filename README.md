@@ -19,7 +19,7 @@
 
 - 🎓 Student of Software Engineering (RPL) in SMKN 64 JAKARTA
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **Modern Frontend Development**
-- 🔥 Experienced with **Laravel REST API**
+- 🔥 Experienced with **Laravel REST API** 
 - 🎯 Goal: Become a professional Web Developer
 - ☕ Coding, learning, and building projects every day
 
@@ -39,7 +39,7 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
