@@ -42,7 +42,7 @@
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
