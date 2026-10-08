@@ -55,9 +55,9 @@
 
 ## 🏆 Achievements
 
-🥈 Lomba Kompetensi Siswa - LKS (Web Technology) - 2nd Place
+🥈 Lomba Kompetensi Siswa (LKS) - Web Technology - 2nd Place
 
-🥈 Robotic Games DKI Jakarta (Avoider Obstacle) - 2nd Place
+🥈 Robotic Games DKI Jakarta - Avoider Obstacle - 2nd Place
 
 🎖️ COMPFEST Fasilkom UI - IT Bussiness Case - Finalist
 
