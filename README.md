@@ -59,7 +59,7 @@
 
 🥈 Robotic Games DKI Jakarta (Avoider Obstacle) - 2nd Place
 
-⭐ COMPFEST Fasilkom UI - IT Bussiness Case - Finalist
+🎖️ COMPFEST Fasilkom UI - IT Bussiness Case - Finalist
 
 ---
 
