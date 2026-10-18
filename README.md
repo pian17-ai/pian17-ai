@@ -65,6 +65,6 @@
 
 <div align="center">
 
-### "Success is born when opportunity meets preparation and determination."
+### "Success is born when opportunity meets preparation and determination"
 
 </div>
